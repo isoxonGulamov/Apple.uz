@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e79d94b0.css",
+    "main.js": "/static/js/main.b5abb98d.js",
+    "static/media/giphy.gif": "/static/media/giphy.3e4024f302a9f68a0fb1.gif",
+    "static/media/korzinka.png": "/static/media/korzinka.acfa4c89b9878a937fca.png",
+    "index.html": "/index.html",
+    "main.e79d94b0.css.map": "/static/css/main.e79d94b0.css.map",
+    "main.b5abb98d.js.map": "/static/js/main.b5abb98d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e79d94b0.css",
+    "static/js/main.b5abb98d.js"
+  ]
+}
